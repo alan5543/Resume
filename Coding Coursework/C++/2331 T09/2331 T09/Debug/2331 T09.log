@@ -1,8 +1,0 @@
-﻿  tutorial_9.cpp
-c:\users\user\desktop\tutorial_9.cpp(54): warning C4018: '<': signed/unsigned mismatch
-c:\users\user\desktop\tutorial_9.cpp(80): warning C4244: 'initializing': conversion from '_Ty' to 'char', possible loss of data
-          with
-          [
-              _Ty=double
-          ]
-  2331 T09.vcxproj -> C:\Users\USER\Desktop\2331 T09\Debug\2331 T09.exe
